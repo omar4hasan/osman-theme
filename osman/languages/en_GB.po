@@ -1,0 +1,1205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osman theme\n"
+"POT-Creation-Date: 2016-11-09 16:04+0000\n"
+"PO-Revision-Date: 2016-11-09 16:04+0000\n"
+"Last-Translator: Support Support <noply@gomail.com>\n"
+"Language-Team: English (UK)\n"
+"Language: en-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_n;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: en_GB.po\n"
+"Report-Msgid-Bugs-To: "
+
+#: 404.php:17
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:19
+msgid "Go Back"
+msgstr ""
+
+#: 404.php:26
+msgid "Or maybe try a search?"
+msgstr ""
+
+#. Name of the template
+msgid "Blog-col1 Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Blog-col2 Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Blog-col3 Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Blog-home Posts"
+msgstr ""
+
+#: comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+msgid "Comments (0)"
+msgstr ""
+
+#: comments.php:14
+msgid "Comments (1) "
+msgstr ""
+
+#: comments.php:14
+msgid "Comments (%) "
+msgstr ""
+
+#: comments.php:32
+msgid "What do you think?"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:34
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:35
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to submit a comment."
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgid ""
+"<a href=\"%1$s\" class=\"btn btn-success btn-sm\"><i class=\"fa fa-user fa-"
+"fw\" aria-hidden=\"true\"></i>%2$s</a> <a href=\"%3$s\" title=\"Log out of "
+"this account\" class=\"btn btn-default btn-sm\"><i class=\"fa fa-sign-out fa-"
+"fw\" aria-hidden=\"true\"></i>Logout</a>"
+msgstr ""
+
+#: comments.php:38
+msgid "Note: Your email address will not be published"
+msgstr ""
+
+#: comments.php:39
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: comments.php:41
+msgid "Text area"
+msgstr ""
+
+#: comments.php:49
+msgid "Name"
+msgstr ""
+
+#: comments.php:54
+msgid "Email"
+msgstr ""
+
+#: comments.php:66 comments.php:66
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#: comments.php:68
+msgid "for"
+msgstr ""
+
+#: footer-fullback.php:97 footer.php:98
+msgid "Success!"
+msgstr ""
+
+#: footer-fullback.php:114 footer-fullback.php:139 footer.php:115
+#: footer.php:140
+msgid "Username"
+msgstr ""
+
+#: footer-fullback.php:118 footer.php:119 admin/core/snippets.php:36
+msgid "Password"
+msgstr ""
+
+#: footer-fullback.php:128 footer.php:81 footer.php:90 footer.php:129
+msgid "Login"
+msgstr ""
+
+#: footer-fullback.php:143 footer.php:144
+msgid "Your Email"
+msgstr ""
+
+#: footer-fullback.php:148 footer.php:149
+msgid "Sign up!"
+msgstr ""
+
+#: footer-fullback.php:149 footer.php:150
+msgid "<p>Check your email for the password!</p>"
+msgstr ""
+
+#: footer-fullback.php:160 footer.php:161
+msgid "Username or Email"
+msgstr ""
+
+#: footer-fullback.php:165 footer.php:166
+msgid "Reset my password"
+msgstr ""
+
+#: footer-fullback.php:166 footer.php:167
+msgid "<p>A message will be sent to your email address.</p>"
+msgstr ""
+
+#: footer-fullback.php:186 footer.php:187
+msgid "Log out"
+msgstr ""
+
+#: footer-fullback.php:188 footer.php:189
+msgid "Admin"
+msgstr ""
+
+#: footer-fullback.php:189 footer.php:190
+msgid "Profile"
+msgstr ""
+
+#: footer-fullback.php:199 footer.php:200
+msgid "Close"
+msgstr ""
+
+#: footer.php:91
+msgid "Register"
+msgstr ""
+
+#: footer.php:92
+msgid "Reset"
+msgstr ""
+
+#: footer.php:99
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+
+#: footer.php:104
+msgid "Check your email to reset your password."
+msgstr ""
+
+#: footer.php:109
+msgid "Log in or sign up! It&rsquo;s fast &amp; <em>free!</em>"
+msgstr ""
+
+#: footer.php:136
+msgid "Register for site Account!"
+msgstr ""
+
+#: functions.php:61 admin/core/register.php:17
+#: admin/metaboxes/meta/team-meta.php:104
+#: admin/metaboxes/meta/team-meta.php:141
+#: admin/metaboxes/meta/team-meta.php:177
+#: admin/metaboxes/meta/team-meta.php:213
+msgid "Primary"
+msgstr ""
+
+#: functions.php:62
+msgid "PushMenu"
+msgstr ""
+
+#: functions.php:63 admin/core/register.php:44
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:64 admin/core/register.php:31
+msgid "One Page"
+msgstr ""
+
+#: header-cpt.php:27 header-fullback.php:25 header-onepage.php:28
+#: header-page.php:27 header.php:27
+#, php-format
+msgid ""
+"<a class=\"skip-link screen-reader-text\" href=\"%s\"> Skip to content </a>"
+msgstr ""
+
+#: header-cpt.php:92 header-fullback.php:109 header-onepage.php:116
+#: header-page.php:120
+msgid ""
+"You have not chosen any slider in <strong>Page > Page Options > Select "
+"Revolution Slider</strong>. To create slider go to <strong>Slider Revolution "
+"> New Slider</strong> or if you want to import predefined <strong>Slider "
+"Revolution > Import Slider</strong>."
+msgstr ""
+
+#: image.php:20
+#, php-format
+msgid "%3$s (%4$s &times; %5$s)"
+msgstr ""
+
+#: image.php:22
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:23
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:32
+msgid "<i class=\"fa fa-chevron-left\" aria-hidden=\"true\"></i> Previous"
+msgstr ""
+
+#: image.php:33
+msgid "Next <i class=\"fa fa-chevron-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: image.php:49 loop/content-blogcol1.php:38 loop/content-blogcol2.php:41
+#: loop/content-page.php:26 loop/content-partners.php:39
+#: loop/content-portfolio.php:39 loop/content-single-partner.php:62
+#: loop/content-single.php:65 loop/content.php:39
+msgid "Pages:"
+msgstr ""
+
+#. Name of the template
+msgid "backfull white page"
+msgstr ""
+
+#. Name of the template
+msgid "Full width"
+msgstr ""
+
+#: search.php:29
+msgid " Search Results found for"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12 includes/breadcrumbs.php:174
+#: admin/core/register.php:80 admin/core/register.php:81
+msgid "Search"
+msgstr ""
+
+#: single-portfolio.php:15
+msgid "Home"
+msgstr ""
+
+#: single-portfolio.php:35
+msgid "Turn Back"
+msgstr ""
+
+#: single-portfolio.php:41 includes/template-tags.php:73
+#: includes/template-tags.php:113 includes/widgets/widget-recent-posts.php:71
+msgid "Next"
+msgstr ""
+
+#: single-portfolio.php:47 includes/widgets/widget-recent-posts.php:70
+msgid "Prev"
+msgstr ""
+
+#: single-portfolio.php:115
+msgid "View more"
+msgstr ""
+
+#. Name of the template
+msgid "One Page Layout"
+msgstr ""
+
+#: admin/theme-options.php:258
+msgid "Maintenance - please come back soon."
+msgstr ""
+
+#: includes/breadcrumbs.php:151
+msgid "Page"
+msgstr ""
+
+#: includes/breadcrumbs.php:166
+msgid "Blog"
+msgstr ""
+
+#: includes/extras.php:135 includes/extras.php:152 includes/extras.php:169
+#: includes/extras.php:184
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/extras.php:136 includes/extras.php:153
+msgid "One Page Menu"
+msgstr ""
+
+#: includes/sharebox.php:6
+msgid "Share on :"
+msgstr ""
+
+#: includes/social-share.php:9
+msgid "Header Socials"
+msgstr ""
+
+#: includes/social-share.php:33 includes/social-share.php:34
+#: includes/social-share.php:173 includes/social-share.php:174
+#: loop/social-footer.php:23 loop/social-footer.php:24
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/social-share.php:37 includes/social-share.php:38
+#: includes/social-share.php:177 includes/social-share.php:178
+#: loop/social-footer.php:27 loop/social-footer.php:28
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/social-share.php:41 includes/social-share.php:42
+#: includes/social-share.php:181 includes/social-share.php:182
+#: loop/social-footer.php:31 loop/social-footer.php:32
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/social-share.php:45 includes/social-share.php:46
+#: includes/social-share.php:185 includes/social-share.php:186
+#: loop/social-footer.php:35 loop/social-footer.php:36
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/social-share.php:49 includes/social-share.php:50
+#: includes/social-share.php:189 includes/social-share.php:190
+#: loop/social-footer.php:39 loop/social-footer.php:40
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/social-share.php:53 includes/social-share.php:54
+#: includes/social-share.php:193 includes/social-share.php:194
+#: loop/social-footer.php:43 loop/social-footer.php:44
+msgid "Github URL"
+msgstr ""
+
+#: includes/social-share.php:57 includes/social-share.php:58
+#: includes/social-share.php:197 includes/social-share.php:198
+#: loop/social-footer.php:47 loop/social-footer.php:48
+msgid "VK URL"
+msgstr ""
+
+#: includes/social-share.php:61 includes/social-share.php:62
+#: includes/social-share.php:201 includes/social-share.php:202
+#: loop/social-footer.php:51 loop/social-footer.php:52
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/social-share.php:65 includes/social-share.php:66
+#: includes/social-share.php:205 includes/social-share.php:206
+#: loop/social-footer.php:55 loop/social-footer.php:56
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/social-share.php:69 includes/social-share.php:70
+#: includes/social-share.php:209 includes/social-share.php:210
+#: loop/social-footer.php:59 loop/social-footer.php:60
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/social-share.php:73 includes/social-share.php:74
+#: includes/social-share.php:213 includes/social-share.php:214
+#: loop/social-footer.php:63 loop/social-footer.php:64
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/social-share.php:77 includes/social-share.php:78
+#: includes/social-share.php:217 includes/social-share.php:218
+#: loop/social-footer.php:67 loop/social-footer.php:68
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/social-share.php:81 includes/social-share.php:82
+#: includes/social-share.php:221 includes/social-share.php:222
+#: loop/social-footer.php:71 loop/social-footer.php:72
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/social-share.php:85 includes/social-share.php:86
+#: includes/social-share.php:225 includes/social-share.php:226
+#: loop/social-footer.php:75 loop/social-footer.php:76
+msgid "Yelp URL"
+msgstr ""
+
+#: includes/social-share.php:102
+msgid "Author Socials"
+msgstr ""
+
+#: includes/social-share.php:148
+msgid "Footer Socials"
+msgstr ""
+
+#: includes/template-tags.php:25
+msgid ""
+"<i class=\"fa fa-chevron-left fa-fw\" aria-hidden=\"true\"></i> Older "
+"Comments"
+msgstr ""
+
+#: includes/template-tags.php:29
+msgid ""
+"Newer Comments <i class=\"fa fa-chevron-right fa-fw\" aria-hidden=\"true\">"
+"</i>"
+msgstr ""
+
+#: includes/template-tags.php:72 includes/template-tags.php:112
+msgid "Previous"
+msgstr ""
+
+#: includes/template-tags.php:78
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: includes/template-tags.php:82
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/template-tags.php:110
+msgid "Post navigation"
+msgstr ""
+
+#: includes/template-tags.php:130
+msgid "Featured"
+msgstr ""
+
+#: includes/template-tags.php:132 includes/template-tags.php:248
+#: loop/content-page.php:37
+msgid "Edit"
+msgstr ""
+
+#: includes/template-tags.php:159
+msgid ""
+", <span class=\"updated-on\"><i class=\"fa fa-refresh\" aria-hidden=\"true\">"
+"</i> updated on</span>"
+msgstr ""
+
+#: includes/template-tags.php:162
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><i class=\"fa fa-calendar\" aria-hidden=\"true\">"
+"</i> Posted %1$s </span><span class=\"byline\" itemtype=\"http://schema."
+"org/Person\" itemscope=\"itemscope\" itemprop=\"author\"> by <i class=\"fa "
+"fa-user\" aria-hidden=\"true\"></i> %2$s </span>"
+msgstr ""
+
+#: includes/template-tags.php:166
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/template-tags.php:186 includes/template-tags.php:194
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:189
+msgid "Categories"
+msgstr ""
+
+#: includes/template-tags.php:190
+#, php-format
+msgid "Categories %1$s "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:197 includes/template-tags.php:264
+msgid "Tags"
+msgstr ""
+
+#: includes/template-tags.php:198
+#, php-format
+msgid "Tagged in %1$s "
+msgstr ""
+
+#: includes/template-tags.php:206
+msgid "Leave a comment "
+msgstr ""
+
+#: includes/template-tags.php:206
+msgid "Comments (1)"
+msgstr ""
+
+#: includes/template-tags.php:206
+msgid "Comments (%)"
+msgstr ""
+
+#: includes/template-tags.php:224
+#, php-format
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:242
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/template-tags.php:264
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: includes/template-tags.php:282
+msgid ""
+"You must specify the output you want - either \"link\" or \"post_content\"."
+msgstr ""
+
+#: loop/content-blogcol1.php:19 loop/content-blogcol2.php:21
+#: loop/content-blogcol3.php:21 loop/content-bloghome.php:22
+#: loop/content-partners.php:19 loop/content-portfolio.php:19
+#: loop/content-single-partner.php:27 loop/content-single.php:30
+#: loop/content.php:19
+msgid "j"
+msgstr ""
+
+#: loop/content-blogcol1.php:20 loop/content-blogcol2.php:22
+#: loop/content-blogcol3.php:22 loop/content-bloghome.php:23
+#: loop/content-partners.php:20 loop/content-portfolio.php:20
+#: loop/content-single-partner.php:28 loop/content-single.php:31
+#: loop/content.php:20
+msgid "M"
+msgstr ""
+
+#: loop/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: loop/content-none.php:16
+#, php-format
+msgid "Ready to publish your first post? %s."
+msgstr ""
+
+#: loop/content-none.php:16
+msgid "Get started here."
+msgstr ""
+
+#: loop/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: loop/content-none.php:28
+msgid ""
+"It seems we did not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: loop/content-page.php:21 loop/content-single-partner.php:57
+#: loop/content-single.php:60
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: loop/content-single-portfolio.php:33
+msgid "Author:"
+msgstr ""
+
+#: loop/content-single-portfolio.php:37
+msgid "Client:"
+msgstr ""
+
+#: loop/content-single-portfolio.php:41
+msgid "Tools:"
+msgstr ""
+
+#: loop/content-single-portfolio.php:45
+msgid "URL:"
+msgstr ""
+
+#: loop/content-single-team.php:104
+msgid "Get in Touch"
+msgstr ""
+
+#: loop/content-team.php:36
+msgid "Send Message"
+msgstr ""
+
+#: admin/core/clean.php:111
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: admin/core/register.php:57
+msgid "Push Menu"
+msgstr ""
+
+#: admin/core/register.php:105
+msgid "Default Sidebar"
+msgstr ""
+
+#: admin/core/register.php:107
+msgid "Main Sidebar that appears on posts, pages, archives."
+msgstr ""
+
+#: admin/core/register.php:115
+msgid "Pages Sidebar"
+msgstr ""
+
+#: admin/core/register.php:117
+msgid "The page sidebar, place widgets here will show in all pages"
+msgstr ""
+
+#: admin/core/register.php:125
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/core/register.php:127 admin/core/register.php:136
+msgid "The blog sidebar, place widgets here will show in all Blogs"
+msgstr ""
+
+#: admin/core/register.php:134
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: admin/core/register.php:147
+msgid "Footer Widget 1"
+msgstr ""
+
+#: admin/core/register.php:149 admin/core/register.php:173
+#: admin/core/register.php:185
+msgid ""
+"Footer Widget Columns place widgets as per no, change from theme options"
+msgstr ""
+
+#: admin/core/register.php:159 admin/core/register.php:171
+#: admin/core/register.php:183
+msgid "Footer Widget"
+msgstr ""
+
+#: admin/core/register.php:161
+msgid ""
+"Footer Widget Columns place widgets as per no, change from theme options."
+msgstr ""
+
+#: admin/core/snippets.php:34
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: admin/core/snippets.php:38 admin/core/snippets.php:38
+msgid "Submit"
+msgstr ""
+
+#: admin/panel_templates/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: admin/panel_templates/header_stickybar.tpl.php:23
+msgid "Save Changes"
+msgstr ""
+
+#: admin/panel_templates/header_stickybar.tpl.php:27
+msgid "Reset Section"
+msgstr ""
+
+#: admin/panel_templates/header_stickybar.tpl.php:28
+msgid "Reset All"
+msgstr ""
+
+#: admin/panel_templates/header_stickybar.tpl.php:31
+msgid "Working..."
+msgstr ""
+
+#: includes/plugins/multiple_sidebars.php:77
+msgid "Sidebar"
+msgstr ""
+
+#: includes/plugins/multiple_sidebars.php:196
+#: includes/plugins/multiple_sidebars.php:196
+msgid "Widget Sections"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:9
+msgid "The most recent images from your Flickr account."
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:73
+msgid "Flickr"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:80
+#: includes/widgets/widget-recent-posts.php:116
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:85
+msgid "ID:"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:90
+msgid "Number of images:"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:9
+msgid "The most recent posts on your site."
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:110
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-posts.php:121
+msgid "Number of posts:"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:50
+#: admin/metaboxes/assets/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:51
+#: admin/metaboxes/assets/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:59
+msgid "Add Media"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:60
+msgid "Remove Media"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:76
+msgid "Add/Edit Images Gallery"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:77
+msgid "Clear Images Gallery"
+msgstr ""
+
+#: admin/metaboxes/meta/meta-config.php:100
+#: admin/metaboxes/meta/meta-config.php:116
+msgid "None"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:38
+msgid "Page Settings"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:39
+msgid "Here you can configure how your page will appear."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:45
+msgid "Select header container layout"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:46
+msgid "Choose Header layout."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:51 admin/metaboxes/meta/page-meta.php:63
+msgid "Boxed"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:52 admin/metaboxes/meta/page-meta.php:64
+msgid "Wide"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:53 admin/metaboxes/meta/page-meta.php:65
+msgid "Full Width"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:57
+msgid "Select Page container layout"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:58
+msgid "Choose content layout."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:70
+msgid "Select Page Layout"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:71
+msgid "Choose a layout for the page."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:76
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:77
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:78
+msgid "No Sidebar(Full Width)"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:82
+#: admin/metaboxes/meta/portfolio-meta.php:25
+#: admin/metaboxes/meta/team-meta.php:24
+msgid "Show title?"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:83
+msgid "Show or hide Page Title on the page."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:88 admin/metaboxes/meta/page-meta.php:100
+#: admin/metaboxes/meta/team-meta.php:29
+msgid "Yes"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:89 admin/metaboxes/meta/page-meta.php:99
+#: admin/metaboxes/meta/team-meta.php:30
+msgid "No"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:93
+msgid "Hide Top Bar"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:94
+msgid "Show or hide Header Top Bar on the page."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:104
+msgid "Slider Alias"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:105
+msgid "Select your Slider Alias for the slider that you want to show."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:109
+msgid "Revolution"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:110
+msgid "Carousel"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:115
+msgid "Revslider Slider Alias"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:116
+msgid ""
+"Select your Revslider Slider Alias for the slider that you want to show."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:123
+msgid "Bootstrap Carousel Slider Alias"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:124
+msgid ""
+"Select your Bootstrap Carousel Slider Alias for the slider that you want to "
+"show."
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:131
+msgid "One Page Include"
+msgstr ""
+
+#: admin/metaboxes/meta/page-meta.php:132
+msgid "Enable or Disable the one Page."
+msgstr ""
+
+#: admin/metaboxes/meta/partner-meta.php:18
+#: admin/metaboxes/meta/portfolio-meta.php:18
+msgid "Portfolio Item Settings"
+msgstr ""
+
+#: admin/metaboxes/meta/partner-meta.php:19
+msgid "Here you can configure how your partner item appear."
+msgstr ""
+
+#: admin/metaboxes/meta/partner-meta.php:25
+msgid "Partner URL"
+msgstr ""
+
+#: admin/metaboxes/meta/partner-meta.php:26
+msgid "Write your partner url."
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:19
+msgid "Here you can configure how your portfolio item appear."
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:26
+msgid "Show your portfolio title url."
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:32
+msgid "Author name"
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:33
+msgid "Write your portfolio Author name."
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:39
+msgid "Client Name"
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:40
+msgid "Write your portfolio Client name."
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:46
+msgid "Tools"
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:47
+msgid "Write your portfolio Tools."
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:53
+msgid "Project url"
+msgstr ""
+
+#: admin/metaboxes/meta/portfolio-meta.php:54
+msgid "Write your portfolio Project url."
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:17
+msgid "Team Page Header Settings"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:18
+msgid "Here you can configure how your page header will appear."
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:25
+msgid "Select your page title to show"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:35
+msgid "position"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:36
+msgid "Select your team member position"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:42
+msgid "excerpt"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:43
+msgid "write your team member Description"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:49
+msgid "Email Address"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:50
+msgid "write your team member Email"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:56
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:57
+msgid "Enter your team member facebook"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:63
+msgid "twitter Link"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:64
+msgid "Enter your team member twitter"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:70
+msgid "linkedin Link"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:71
+msgid "Enter your team member linkedin"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:77
+msgid "Google Link"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:78
+msgid "Enter your team member gplus"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:84
+msgid "First Skill Label"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:85 admin/metaboxes/meta/team-meta.php:122
+#: admin/metaboxes/meta/team-meta.php:158
+#: admin/metaboxes/meta/team-meta.php:194
+msgid "Enter your team member Skill Label"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:91
+msgid "First Skill Value"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:92 admin/metaboxes/meta/team-meta.php:129
+#: admin/metaboxes/meta/team-meta.php:165
+#: admin/metaboxes/meta/team-meta.php:201
+msgid "Enter your team member Skill number from 0 to 100"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:98
+msgid "First Skill - Color"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:99 admin/metaboxes/meta/team-meta.php:136
+#: admin/metaboxes/meta/team-meta.php:172
+#: admin/metaboxes/meta/team-meta.php:208
+msgid "Enter your team member Skill color"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:105
+#: admin/metaboxes/meta/team-meta.php:142
+#: admin/metaboxes/meta/team-meta.php:178
+#: admin/metaboxes/meta/team-meta.php:214
+msgid "Primary Accent"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:106
+#: admin/metaboxes/meta/team-meta.php:143
+#: admin/metaboxes/meta/team-meta.php:179
+#: admin/metaboxes/meta/team-meta.php:215
+msgid "Danger"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:107
+#: admin/metaboxes/meta/team-meta.php:144
+#: admin/metaboxes/meta/team-meta.php:180
+#: admin/metaboxes/meta/team-meta.php:216
+msgid "Warning"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:108
+#: admin/metaboxes/meta/team-meta.php:145
+#: admin/metaboxes/meta/team-meta.php:181
+#: admin/metaboxes/meta/team-meta.php:217
+msgid "Info"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:109
+#: admin/metaboxes/meta/team-meta.php:146
+#: admin/metaboxes/meta/team-meta.php:182
+#: admin/metaboxes/meta/team-meta.php:218
+msgid "Success"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:113
+msgid "First Skill Icon"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:114
+#: admin/metaboxes/meta/team-meta.php:151
+#: admin/metaboxes/meta/team-meta.php:187
+#: admin/metaboxes/meta/team-meta.php:223
+msgid "Enter FontAwesome class name, e.g fa-info."
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:121
+msgid "Second Skill Label"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:128
+msgid "Second Skill Value"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:135
+msgid "Second Skill - Color"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:150
+msgid "Second Skill Icon"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:157
+msgid "Third Skill Label"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:164
+msgid "Third Skill Value"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:171
+msgid "Third Skill1 - Color"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:186
+msgid "Third Skill Icon"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:193
+msgid "Fourth Skill Label"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:200
+msgid "Fourth Skill Value"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:207
+msgid "Fourth Skill1 - Color"
+msgstr ""
+
+#: admin/metaboxes/meta/team-meta.php:222
+msgid "Fourth Skill Icon"
+msgstr ""
+
+#: includes/integrations/woocommerce/functions.php:157
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/integrations/woocommerce/template.php:393
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/integrations/woocommerce/template.php:393
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/metaboxes/assets/gallery/field_gallery.php:76
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: admin/metaboxes/assets/gallery/field_gallery.php:77
+msgid "Clear Gallery"
+msgstr ""
+
+#. Name of the theme
+msgid "osman"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Fully Responsive starter WordPress Theme based on twitter bootstrap 3. osman "
+"is built with clean HTML5 and CSS3. Simple, super flexible theme designed "
+"for Multi-Purpose, and comes packed with powerful options panel."
+msgstr ""
+
+#. URI of the theme
+msgid "http://okoutsourcing.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "Omar Hasan"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://s635683125.onlinehome.us"
+msgstr ""
